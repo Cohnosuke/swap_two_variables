@@ -12,7 +12,7 @@ a = -(b + a)
 
 Show what happens.
 
-![swap_two_variables](https://user-images.githubusercontent.com/108498183/176890728-cc170406-7288-4971-976a-267e92b8c923.gif)
+![swap_two_variables2](https://user-images.githubusercontent.com/108498183/177026270-0ff274de-07f9-43a9-8909-0217b0cb3278.gif)
 
 as you can see, two number swapped.
  
